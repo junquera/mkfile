@@ -1,6 +1,6 @@
-Programa para crear un archivo indicándo las dimensiones (en Bytes) que debe tener.
+Script para crear un archivo indicándo las dimensiones (en Bytes) que debe tener.
 
-USO:
+
 	mkfile [tamaño] [múltiplo]
 
 	[tamaño]
